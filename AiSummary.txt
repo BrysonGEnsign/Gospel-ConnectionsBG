@@ -1,0 +1,7 @@
+You described having a decent grasp of Kubernetes and connected learning its fundamentals to building a foundation in the gospel. You explained that as you learn Kubernetes concepts step by step, you become better able to connect ideas and use the technology to build stronger things.
+
+You compared that process to building faith and a testimony “line upon line.” A stronger spiritual foundation can give you something to rely on, help you endure challenges, and support continued growth. In both areas, building a foundation takes time and practice; no one is expected to be perfect while learning.
+Points you may want to clarify in your reflection
+Your video gives a broad description of Kubernetes, but it doesn’t go into much detail about its architecture. In your own reflection, you could explain what you mean by Kubernetes fundamentals—for example, how its components work together to deploy and manage containerized applications. You could also connect the scriptures named in the assignment to your ideas, since they weren’t discussed directly in the recording.
+
+This summary is based only on the transcript you pasted. Use it as notes, then add your own interpretation and experience in the reflection.
