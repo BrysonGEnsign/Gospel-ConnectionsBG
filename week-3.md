@@ -1,15 +1,3 @@
-Think of a difficult experience that changed you in some meaningful way. What was different about you afterward?
-Did you develop greater patience, empathy, resilience, humility, faith, or some other capacity?
-In your Markdown document, write a journal entry to your posterity that will help them build their testimonies using
-your own trials and experiences as a source. As you reflect, consider the connection to transformation in an ETL pipeline, and address these questions as you write your journal entry: 
-What do you want them to know about your trial or experience?
-How did that transformation produce blessings—not only for you, but for your family and other people you have been able to influence or serve.
-What did that experience prepare you to do or become?
-Why is that trial of importance to your personal growth, and hopefully theirs?
-How did you choose to be faithful through the difficulty?
-How did this experience help build you into a stronger and more durable warrior for the Gospel of Jesus Christ?
-
-
 
 
 I think an important lesson for the future generations and whoever needs this lesson to learn is that Life does not always go as planned. 
